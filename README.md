@@ -32,4 +32,3 @@ You just have to download this whole projecct into you driver (you don't have to
 
 Enjoy your game!
 
-UML Diagram: https://drive.google.com/file/d/1gMPINH_Jp553S5-AEmxwla6LBjlav2nc/view?usp=drive_link
